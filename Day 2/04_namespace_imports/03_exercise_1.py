@@ -1,6 +1,6 @@
 # Using what we learned so far, create a function that:
-# return True if the module "poalim" exists and can be imported.
-# return False otherwise.
+# returns True if the module "poalim" exists and can be imported.
+# returns False otherwise.
 
 
 def poalim_module_exists():
