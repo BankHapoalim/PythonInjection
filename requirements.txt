@@ -1,0 +1,8 @@
+# Requirements for ML course, tested with Anaconda+Python3.7 64 bit
+matplotlib==2.2.2
+scikit-learn==0.20.1
+scipy==1.1.0
+pandas==0.23.0
+numpy==1.14.3
+jupyter
+tensorflow==1.13.1
